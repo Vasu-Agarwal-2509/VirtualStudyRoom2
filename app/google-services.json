@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723477755223",
+    "project_id": "virtualstore-8150a",
+    "storage_bucket": "virtualstore-8150a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723477755223:android:2d7adf83edc42177157a12",
+        "android_client_info": {
+          "package_name": "com.example.virtualstudyroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723477755223-ieo1m4rapubsn7qq8072e9gmr6tq02ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualstudyroom",
+            "certificate_hash": "6bea4fb6e4453e41775ea88ddbc6ba317e16d6b3"
+          }
+        },
+        {
+          "client_id": "723477755223-a7f0ugk375ugcd1g44k8t0pk3i5fm599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRyS6aFdlX3EJIjMAE7w2CpdRjHA5e0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723477755223-a7f0ugk375ugcd1g44k8t0pk3i5fm599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
